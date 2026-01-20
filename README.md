@@ -212,15 +212,6 @@ Run unit tests:
 
 See `requirements.txt` for versions.
 
-## Git Repository
-
-Repository: https://github.com/nataliiatel/CareerSatisfaction
-
-Clone with new name:
-```bash
-git clone https://github.com/nataliiatel/CareerSatisfaction.git SalaryPrediction
-```
-
 ## License
 
 MIT License — see `LICENSE` file.
